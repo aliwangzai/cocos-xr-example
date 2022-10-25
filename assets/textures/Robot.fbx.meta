@@ -1,0 +1,297 @@
+{
+  "ver": "2.3.1",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d3518af7-594f-4f79-9d52-e294d35ece06",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-3.cconb"
+  ],
+  "subMetas": {
+    "26160": {
+      "importer": "gltf-animation",
+      "uuid": "d3518af7-594f-4f79-9d52-e294d35ece06@26160",
+      "displayName": "",
+      "id": "26160",
+      "name": "Robot Armature|Stand.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 5.25
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "68751": {
+      "importer": "gltf-scene",
+      "uuid": "d3518af7-594f-4f79-9d52-e294d35ece06@68751",
+      "displayName": "",
+      "id": "68751",
+      "name": "Robot.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "99380": {
+      "importer": "gltf-material",
+      "uuid": "d3518af7-594f-4f79-9d52-e294d35ece06@99380",
+      "displayName": "",
+      "id": "99380",
+      "name": "Material.001.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6e33": {
+      "importer": "gltf-mesh",
+      "uuid": "d3518af7-594f-4f79-9d52-e294d35ece06@c6e33",
+      "displayName": "",
+      "id": "c6e33",
+      "name": "Cube.002.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3415b": {
+      "importer": "gltf-animation",
+      "uuid": "d3518af7-594f-4f79-9d52-e294d35ece06@3415b",
+      "displayName": "",
+      "id": "3415b",
+      "name": "Robot Armature|Action Walk Done.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.2916666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "451f1": {
+      "importer": "gltf-animation",
+      "uuid": "d3518af7-594f-4f79-9d52-e294d35ece06@451f1",
+      "displayName": "",
+      "id": "451f1",
+      "name": "Robot Armature|Stand_1.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.0416666679084301
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "d7a7c": {
+      "importer": "gltf-animation",
+      "uuid": "d3518af7-594f-4f79-9d52-e294d35ece06@d7a7c",
+      "displayName": "",
+      "id": "d7a7c",
+      "name": "Robot Armature|Walk_Blocking.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.3333333730697632
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "d3518af7-594f-4f79-9d52-e294d35ece06@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 26
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "933e8": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d3518af7-594f-4f79-9d52-e294d35ece06@933e8",
+      "displayName": "",
+      "id": "933e8",
+      "name": "Texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "eb3be": {
+      "importer": "texture",
+      "uuid": "d3518af7-594f-4f79-9d52-e294d35ece06@eb3be",
+      "displayName": "",
+      "id": "eb3be",
+      "name": "Texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d3518af7-594f-4f79-9d52-e294d35ece06@933e8"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "Texture",
+        "uri": "d3518af7-594f-4f79-9d52-e294d35ece06@933e8"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "animationImportSettings": [
+      {
+        "name": "Robot Armature|Action Walk Done",
+        "duration": 1.2916666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Robot Armature|Action Walk Done",
+            "from": 0,
+            "to": 1.2916666269302368,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Robot Armature|Stand",
+        "duration": 5.25,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Robot Armature|Stand",
+            "from": 0,
+            "to": 5.25,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Robot Armature|Stand_1",
+        "duration": 0.0416666679084301,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Robot Armature|Stand_1",
+            "from": 0,
+            "to": 0.0416666679084301,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Robot Armature|Walk_Blocking",
+        "duration": 1.3333333730697632,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Robot Armature|Walk_Blocking",
+            "from": 0,
+            "to": 1.3333333730697632,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "d3518af7-594f-4f79-9d52-e294d35ece06@68751",
+    "assetFinder": {
+      "meshes": [
+        "d3518af7-594f-4f79-9d52-e294d35ece06@c6e33"
+      ],
+      "skeletons": [
+        "d3518af7-594f-4f79-9d52-e294d35ece06@438fe"
+      ],
+      "textures": [
+        "d3518af7-594f-4f79-9d52-e294d35ece06@eb3be"
+      ],
+      "materials": [
+        "d3518af7-594f-4f79-9d52-e294d35ece06@99380"
+      ],
+      "scenes": [
+        "d3518af7-594f-4f79-9d52-e294d35ece06@68751"
+      ]
+    }
+  }
+}
