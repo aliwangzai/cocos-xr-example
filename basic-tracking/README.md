@@ -1,3 +1,4 @@
-# cocos-xr-example
-
-> eazy-lean example for new cocos-xr develeper 
+# basic tracking 
+## hmd tracking 
+## hand_left tracking 
+## hand_right tracking 
